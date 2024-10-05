@@ -10,7 +10,7 @@
 Да и если вы хотите видеть здесь новую криптовалюту которая вам нужна, пишите, добавим. :)
 
 
-![IMAGE ALT TEXT HERE](https://github.com/renat2985/crypto_payment_touchScreen/blob/main/doc/intro.png)
+![IMAGE ALT TEXT HERE](https://github.com/renat2985/crypto_payment_touchScreen/blob/main/doc/intro.jpg)
 
 ### Основные функции:
 
@@ -56,16 +56,16 @@
 # Web installer (recommended)
 Вам нужно подключить устройство через Type-C к копьютеру и открыть в браузере сайт:
 
-## [https://renat2985.github.io/solana_payment_sonoff/](https://renat2985.github.io/solana_payment_sonoff/)
+## [https://renat2985.github.io/crypto_payment_touchScreen/](https://renat2985.github.io/crypto_payment_touchScreen/)
 
 
 ### Для совсем профи инструкция для прошивки через программатор
 ### Specification 
 ```
-  { "path": "./build/esp32.esp32.esp32*/solana_payment_sonoff.ino.bootloader.bin", "offset": 4096 },
-  { "path": "./build/esp32.esp32.esp32*/solana_payment_sonoff.ino.partitions.bin", "offset": 32768 },
-  { "path": "./build/esp32.esp32.esp32*/boot_app0.bin", "offset": 57344 },
-  { "path": "./build/esp32.esp32.esp32*/solana_payment_sonoff.ino.bin", "offset": 65536 }
+        { "path": "./build/esp32.esp32.esp32c3/crypto_payment_touchScreen.ino.bootloader.bin", "offset": 4096 },
+        { "path": "./build/esp32.esp32.esp32c3/crypto_payment_touchScreen.ino.partitions.bin", "offset": 32768 },
+        { "path": "./build/esp32.esp32.esp32c3/boot_app0.bin", "offset": 57344 },
+        { "path": "./build/esp32.esp32.esp32c3/crypto_payment_touchScreen.ino.bin", "offset": 65536 }
 ```
 
 
@@ -74,6 +74,6 @@
 
 If you like this project, you can give me a cup of coffee :coffee:
 
-<img src="https://github.com/renat2985/solana_payment_sonoff/blob/main/doc/donate.png" width="700px">
+<img src="https://github.com/renat2985/crypto_payment_touchScreen/blob/main/doc/donate.png" width="700px">
 
 - PayPal [https://www.paypal.me/RKevrels](https://www.paypal.me/RKevrels/5)
