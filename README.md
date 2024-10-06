@@ -18,7 +18,7 @@ If you want to see a new cryptocurrency that you need here, feel free to contact
      <img src="https://github.com/renat2985/crypto_payment_touchScreen/blob/main/doc/WiFi.png" width="200px">
    - Connect to this hotspot (no password required) and open a browser, then enter http://192.168.4.1. After connecting to Wi-Fi, the Captive Portal will usually open automatically, redirecting you to the required page.
      
-     <img src="https://github.com/renat2985/crypto_payment_touchScreen/blob/main/doc/AP1.png" width="300px">
+     <img src="https://github.com/renat2985/crypto_payment_touchScreen/blob/main/doc/AP2.png" width="300px">
    - Click "Configure WiFi" to set it up.
 
 2. **Device Configuration:**
@@ -28,11 +28,16 @@ If you want to see a new cryptocurrency that you need here, feel free to contact
    - **Your Solana Wallet:** Enter your wallet address to receive payments.
    - **CoinMarketCap API:** Used to get the current exchange rate of Solana and TonCoin in fiat currency.
    - **NowNodesAPI API:** Used to get information about your wallet balance.
+
    You can use built-in APIs for testing; however, for long-term use, it is highly recommended to register on the respective websites ([coinmarketcap.com](https://coinmarketcap.com/api/) and [nownodes.io](https://nownodes.io/)) and obtain your own API keys. Free plans allow up to 10,000 requests per month, enough for 10 devices. However, with an increased number of devices, there may be delays in getting up-to-date information, which could disrupt the payment process.
+
    - **Currency:** Choose the currency in which you want to receive payments (EUR, USD, RUB, BYN, BGN, GBP, etc.). This is necessary for automatic conversion of the amount into Solana or TonCoin based on the current exchange rate, which is updated hourly via coinmarketcap.com.
    - **Service Currency Price:** Set the price in the selected currency that the client must pay.
    - **Payment Tolerance:** Enter the allowable price deviation here. Since the value of Ton fluctuates constantly, you need to specify a tolerance range (as a single number) that you are willing to accept for payment.
    - **Relay Work Time:** Specify how many seconds the relay should remain active. This can range from one second (for simulating a button press, for example) to several minutes or hours.
+
+   <img src="https://github.com/renat2985/crypto_payment_touchScreen/blob/main/doc/APFull2.png" width="300px">
+
 
 
 ### Instructions for DIY Assembly:
