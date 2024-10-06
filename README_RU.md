@@ -9,7 +9,7 @@
 
 Да и если вы хотите видеть здесь новую криптовалюту которая вам нужна, пишите, добавим. :)
 
-[![IMAGE ALT TEXT HERE](https://github.com/renat2985/toncoin_payment/blob/main/doc/intro.jpg)](https://www.youtube.com/watch?v=OLOO8hDeg5w&list=PL6NJTNxbvy-LpsI6D_1RM6v5YWDvsm5j4)
+[![IMAGE ALT TEXT HERE](https://github.com/renat2985/crypto_payment_touchScreen/blob/main/doc/intro.jpg)](https://www.youtube.com/watch?v=OLOO8hDeg5w&list=PL6NJTNxbvy-LpsI6D_1RM6v5YWDvsm5j4)
 
 ### Основные функции:
 
