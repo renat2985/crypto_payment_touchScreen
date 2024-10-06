@@ -4,11 +4,11 @@ A convenient and fast way to implement paid services using TonCoin and Solana cr
 
 You can build the device yourself or ask us to do it for you. To order a ready-made device, contact us via [Telegram](https://t.me/ESPiotDevice), [Skype](https://skype:renat2985?chat), or [Discord](https://discord.com/invite/zaGaDuGe).
 
-We have a similar project with a display, [check it out](https://github.com/renat2985/solana_payment), and also based on [Sonoff](https://github.com/renat2985/toncoin_payment_sonoff).
+We have a similar project with a display, [check it out](https://github.com/renat2985/toncoin_payment), and also based on [Sonoff](https://github.com/renat2985/toncoin_payment_sonoff).
 
 If you want to see a new cryptocurrency that you need here, feel free to contact us, and we'll add it. :)
 
-![IMAGE ALT TEXT HERE](https://github.com/renat2985/crypto_payment_touchScreen/blob/main/doc/intro.jpg)
+[![IMAGE ALT TEXT HERE](https://github.com/renat2985/toncoin_payment/blob/main/doc/intro.jpg)](https://www.youtube.com/watch?v=OLOO8hDeg5w&list=PL6NJTNxbvy-LpsI6D_1RM6v5YWDvsm5j4)
 
 ### Main Features:
 
