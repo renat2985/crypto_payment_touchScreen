@@ -1,3 +1,5 @@
+[🇷🇺 Русская версия документации здесь](https://github.com/renat2985/crypto_payment_touchScreen/blob/main/README_RU.md)
+
 # Payment for Your Services via Toncoin and Solana
 
 A convenient and fast way to implement paid services using TonCoin and Solana cryptocurrencies. The process is simple: You open any crypto wallet, scan the QR code displayed on the device, transfer the specified amount, and once the payment is received (the wallet balance is checked every 5 seconds), the relay activates and turns on your device for the time you have set. This can be any device, from a kettle, coffee machine, or light bulb to turning on electricity in a room or any other place.
