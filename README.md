@@ -36,7 +36,7 @@ If you want to see a new cryptocurrency that you need here, feel free to contact
    - **Payment Tolerance:** Enter the allowable price deviation here. Since the value of Ton fluctuates constantly, you need to specify a tolerance range (as a single number) that you are willing to accept for payment.
    - **Relay Work Time:** Specify how many seconds the relay should remain active. This can range from one second (for simulating a button press, for example) to several minutes or hours.
 
-   <img src="https://github.com/renat2985/crypto_payment_touchScreen/blob/main/doc/APFull2.png" width="300px">
+     <img src="https://github.com/renat2985/crypto_payment_touchScreen/blob/main/doc/APFull2.png" width="300px">
 
 
 
@@ -50,8 +50,8 @@ Additionally, you'll need:
 - Soldering iron
 - Wires
 
-  <img src="https://github.com/renat2985/crypto_payment_touchScreen/blob/main/doc/gpio.png" width="500px">
-  <img src="https://github.com/renat2985/crypto_payment_touchScreen/blob/main/doc/photo.jpg" width="500px">
+  <img src="https://github.com/renat2985/crypto_payment_touchScreen/blob/main/doc/gpio.png" height="200px">
+  <img src="https://github.com/renat2985/crypto_payment_touchScreen/blob/main/doc/photo.jpg" height="200px">
 
 
 Good luck! If you have any questions, don’t hesitate to contact us.

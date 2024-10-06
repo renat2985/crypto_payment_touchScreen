@@ -38,7 +38,7 @@
    - **Payment Tolerance:** В этой ячейке указывается допустимая погрешность в цене. Поскольку стоимость Ton постоянно колеблется, здесь нужно указать диапазон отклонений (одной цифрой), который вы готовы принять при оплате.
    - **Relay Work Time:** Укажите, на сколько секунд должно включиться реле. Это может быть от одной секунды (например, для имитации нажатия кнопки) до нескольких минут или часов.
 
-   <img src="https://github.com/renat2985/crypto_payment_touchScreen/blob/main/doc/APFull2.png" width="300px">
+     <img src="https://github.com/renat2985/crypto_payment_touchScreen/blob/main/doc/APFull2.png" width="300px">
 
 
 ### Инструкции для самостоятельной сборки:
@@ -51,8 +51,8 @@
 - Паяльник
 - Провода
 
-  <img src="https://github.com/renat2985/crypto_payment_touchScreen/blob/main/doc/gpio.png" width="500px">
-  <img src="https://github.com/renat2985/crypto_payment_touchScreen/blob/main/doc/photo.jpg" width="500px">
+  <img src="https://github.com/renat2985/crypto_payment_touchScreen/blob/main/doc/gpio.png" height="200px">
+  <img src="https://github.com/renat2985/crypto_payment_touchScreen/blob/main/doc/photo.jpg" height="200px">
 
 
 Удачи! Если у вас возникнут вопросы, не стесняйтесь обращаться к нам.
