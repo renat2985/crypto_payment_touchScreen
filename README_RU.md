@@ -65,10 +65,10 @@
 ### Для совсем профи инструкция для прошивки через программатор
 ### Specification 
 ```
-        { "path": "./build/esp32.esp32.esp32c3/crypto_payment_touchScreen.ino.bootloader.bin", "offset": 0 },
-        { "path": "./build/esp32.esp32.esp32c3/crypto_payment_touchScreen.ino.partitions.bin", "offset": 32768 },
-        { "path": "./build/esp32.esp32.esp32c3/boot_app0.bin", "offset": 57344 },
-        { "path": "./build/esp32.esp32.esp32c3/crypto_payment_touchScreen.ino.bin", "offset": 65536 }
+{ "path": "./build/esp32.esp32.esp32c3/crypto_payment_touchScreen.ino.bootloader.bin", "offset": 0 },
+{ "path": "./build/esp32.esp32.esp32c3/crypto_payment_touchScreen.ino.partitions.bin", "offset": 32768 },
+{ "path": "./build/esp32.esp32.esp32c3/boot_app0.bin", "offset": 57344 },
+{ "path": "./build/esp32.esp32.esp32c3/crypto_payment_touchScreen.ino.bin", "offset": 65536 }
 ```
 
 
