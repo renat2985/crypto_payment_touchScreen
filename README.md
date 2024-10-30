@@ -29,9 +29,9 @@ If you want to see a new cryptocurrency that you need here, feel free to contact
    - **Your TonCoin Wallet:** Enter your wallet address to receive payments.
    - **Your Solana Wallet:** Enter your wallet address to receive payments.
    - **CoinMarketCap API:** Used to get the current exchange rate of Solana and TonCoin in fiat currency.
-   - **NowNodesAPI API:** Used to get information about your wallet balance.
+   - **Tatum API API:** Used to get information about your wallet balance.
 
-   You can use built-in APIs for testing; however, for long-term use, it is highly recommended to register on the respective websites ([coinmarketcap.com](https://coinmarketcap.com/api/) and [nownodes.io](https://nownodes.io/)) and obtain your own API keys. Free plans allow up to 10,000 requests per month, enough for 10 devices. However, with an increased number of devices, there may be delays in getting up-to-date information, which could disrupt the payment process.
+   You can use built-in APIs for testing; however, for long-term use, it is highly recommended to register on the respective websites ([coinmarketcap.com](https://coinmarketcap.com/api/) and [tatum.io](https://tatum.io/)) and obtain your own API keys. Free plans allow up to 10,000 requests per month, enough for 10 devices. However, with an increased number of devices, there may be delays in getting up-to-date information, which could disrupt the payment process.
 
    - **Currency:** Choose the currency in which you want to receive payments (EUR, USD, RUB, BYN, BGN, GBP, etc.). This is necessary for automatic conversion of the amount into Solana or TonCoin based on the current exchange rate, which is updated hourly via coinmarketcap.com.
    - **Service Currency Price:** Set the price in the selected currency that the client must pay.
