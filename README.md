@@ -29,7 +29,7 @@ If you want to see a new cryptocurrency that you need here, feel free to contact
    - **Your TonCoin Wallet:** Enter your wallet address to receive payments.
    - **Your Solana Wallet:** Enter your wallet address to receive payments.
    - **CoinMarketCap API:** Used to get the current exchange rate of Solana and TonCoin in fiat currency.
-   - **Tatum API API:** Used to get information about your wallet balance.
+   - **Tatum API:** Used to get information about your wallet balance.
 
    You can use built-in APIs for testing; however, for long-term use, it is highly recommended to register on the respective websites ([coinmarketcap.com](https://coinmarketcap.com/api/) and [tatum.io](https://tatum.io/)) and obtain your own API keys. Free plans allow up to 10,000 requests per month, enough for 10 devices. However, with an increased number of devices, there may be delays in getting up-to-date information, which could disrupt the payment process.
 
