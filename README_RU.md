@@ -5,7 +5,7 @@
 
 Вы можете собрать устройство самостоятельно или попросить это сделать для вас. Для заказа готового устройства свяжитесь через [Telegram](https://t.me/ESPiotDevice), [Skype](https://skype:renat2985?chat), [Discord](https://discord.com/invite/zaGaDuGe).
 
-У нас есть похожий проект с экраном, [посмотри](https://github.com/renat2985/toncoin_payment), и на базе [Sonoff](https://github.com/renat2985/toncoin_payment_sonoff).
+У нас есть похожий проект с экраном, [посмотри](https://github.com/renat2985/toncoin_payment), и на базе [Sonoff for Toncoin (toncenter.com)](https://github.com/renat2985/toncoin_payment_sonoff), [Sonoff for Toncoin, Salana (tatum.io)](https://github.com/renat2985/crypto_payment_sonoff).
 
 Да и если вы хотите видеть здесь новую криптовалюту которая вам нужна, пишите, добавим. :)
 
