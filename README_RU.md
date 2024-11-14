@@ -5,7 +5,12 @@
 
 Вы можете собрать устройство самостоятельно или попросить это сделать для вас. Для заказа готового устройства свяжитесь через [Telegram](https://t.me/ESPiotDevice), [Skype](https://skype:renat2985?chat), [Discord](https://discord.com/invite/zaGaDuGe).
 
-У нас есть похожий проект с экраном, [посмотри](https://github.com/renat2985/toncoin_payment), и на базе [Sonoff for Toncoin (toncenter.com)](https://github.com/renat2985/toncoin_payment_sonoff), [Sonoff for Toncoin, Solana (tatum.io)](https://github.com/renat2985/crypto_payment_sonoff).
+У нас есть похожий проект с экраном, [посмотри](https://github.com/renat2985/toncoin_payment), и на базе Sonoff:
+
+- [Sonoff for Toncoin (toncenter.com)](https://github.com/renat2985/toncoin_payment_sonoff)
+
+- [Sonoff for Toncoin, Solana (tatum.io)](https://github.com/renat2985/crypto_payment_sonoff)
+
 
 Да и если вы хотите видеть здесь новую криптовалюту которая вам нужна, пишите, добавим. :)
 
@@ -77,6 +82,6 @@
 
 If you like this project, you can give me a cup of coffee :coffee:
 
-<img src="https://github.com/renat2985/crypto_payment_touchScreen/blob/main/doc/donate.png" width="700px">
+<img src="https://github.com/renat2985/renat2985/raw/main/donate/donate.png" width="100%">
 
 - PayPal [https://www.paypal.me/RKevrels](https://www.paypal.me/RKevrels/5)
