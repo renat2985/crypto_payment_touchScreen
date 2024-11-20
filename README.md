@@ -1,8 +1,8 @@
 [🇷🇺 Русская версия документации здесь](https://github.com/renat2985/crypto_payment_touchScreen/blob/main/README_RU.md)
 
-# Payment for Your Services via Toncoin and Solana
+# Payment for Your Services via Solana, Cosmos, Algorand, Toncoin
 
-A convenient and fast way to implement paid services using TonCoin and Solana cryptocurrencies. The process is simple: You open any crypto wallet, scan the QR code displayed on the device, transfer the specified amount, and once the payment is received (the wallet balance is checked every 5 seconds), the relay activates and turns on your device for the time you have set. This can be any device, from a kettle, coffee machine, or light bulb to turning on electricity in a room or any other place.
+A convenient and fast way to implement paid services using Solana, Cosmos, Algorand, Toncoin cryptocurrencies. The process is simple: You open any crypto wallet, scan the QR code displayed on the device, transfer the specified amount, and once the payment is received (the wallet balance is checked every 5 seconds), the relay activates and turns on your device for the time you have set. This can be any device, from a kettle, coffee machine, or light bulb to turning on electricity in a room or any other place.
 
 You can build the device yourself or ask us to do it for you. To order a ready-made device, contact us via [Telegram](https://t.me/ESPiotDevice), [Skype](https://skype:renat2985?chat), or [Discord](https://discord.com/invite/zaGaDuGe).
 
@@ -10,7 +10,7 @@ We have a similar project with a display, [check it out](https://github.com/rena
 
 - [Sonoff for Toncoin (toncenter.com)](https://github.com/renat2985/toncoin_payment_sonoff)
 
-- [Sonoff for Toncoin, Solana (tatum.io)](https://github.com/renat2985/crypto_payment_sonoff)
+- [Sonoff for Toncoin, Solana, Cosmos, Algorand (tatum.io)](https://github.com/renat2985/crypto_payment_sonoff)
 
 
 If you want to see a new cryptocurrency that you need here, feel free to contact us, and we'll add it. :)
@@ -33,12 +33,14 @@ If you want to see a new cryptocurrency that you need here, feel free to contact
    - **Device Name:** Enter a device name, for example, "Buy coffee."
    - **Your TonCoin Wallet:** Enter your wallet address to receive payments.
    - **Your Solana Wallet:** Enter your wallet address to receive payments.
-   - **CoinMarketCap API:** Used to get the current exchange rate of Solana and TonCoin in fiat currency.
+   - **Your Cosmos Wallet:** Enter your wallet address to receive payments.
+   - **Your Algorand Wallet:** Enter your wallet address to receive payments.
+   - **CoinMarketCap API:** Used to get the current exchange rate of Solana, Cosmos, Algorand, Toncoin in fiat currency.
    - **Tatum API:** Used to get information about your wallet balance.
 
    You can use built-in APIs for testing; however, for long-term use, it is highly recommended to register on the respective websites ([coinmarketcap.com](https://coinmarketcap.com/api/) and [tatum.io](https://tatum.io/)) and obtain your own API keys. Free plans allow up to 10,000 requests per month, enough for 10 devices. However, with an increased number of devices, there may be delays in getting up-to-date information, which could disrupt the payment process.
 
-   - **Currency:** Choose the currency in which you want to receive payments (EUR, USD, RUB, BYN, BGN, GBP, etc.). This is necessary for automatic conversion of the amount into Solana or TonCoin based on the current exchange rate, which is updated hourly via coinmarketcap.com.
+   - **Currency:** Choose the currency in which you want to receive payments (EUR, USD, RUB, BYN, BGN, GBP, etc.). This is necessary for automatic conversion of the amount into Solana, Cosmos, Algorand, Toncoin based on the current exchange rate, which is updated hourly via coinmarketcap.com.
    - **Service Currency Price:** Set the price in the selected currency that the client must pay.
    - **Payment Tolerance:** Enter the allowable price deviation here. Since the value of Ton fluctuates constantly, you need to specify a tolerance range (as a single number) that you are willing to accept for payment.
    - **Relay Work Time:** Specify how many seconds the relay should remain active. This can range from one second (for simulating a button press, for example) to several minutes or hours.
