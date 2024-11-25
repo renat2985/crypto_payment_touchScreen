@@ -48,11 +48,11 @@ If you want to see a new cryptocurrency that you need here, feel free to contact
       <img src="https://github.com/renat2985/crypto_payment_touchScreen/blob/main/doc/APFull2.png" width="300px">
 
 3.	**Reset Settings:**
-   To reset the device to factory settings, follow these steps:
-   1.	Press the right button located on the back of the device. The device will start rebooting. Alternatively, you can disconnect and reconnect the power supply to the device.
-   2.	When the device turns on, and you see the firmware version displayed along with a short beep, immediately press and hold the left button.
-   3.	After that, you will hear a long, low-pitched signal, and a message about data erasure will appear on the screen.
-   The device settings will now be reset. And the WiFi "Crypto Payment" will appear again.
+      To reset the device to factory settings, follow these steps:
+      1.	Press the right button located on the back of the device. The device will start rebooting. Alternatively, you can disconnect and reconnect the power supply to the device.
+      2.	When the device turns on, and you see the firmware version displayed along with a short beep, immediately press and hold the left button.
+      3.	After that, you will hear a long, low-pitched signal, and a message about data erasure will appear on the screen.
+      The device settings will now be reset. And the WiFi "Crypto Payment" will appear again.
 
 ### Instructions for DIY Assembly:
 
