@@ -38,16 +38,21 @@ If you want to see a new cryptocurrency that you need here, feel free to contact
    - **CoinMarketCap API:** Used to get the current exchange rate of Solana, Cosmos, Algorand, Toncoin in fiat currency.
    - **Tatum API:** Used to get information about your wallet balance.
 
-   You can use built-in APIs for testing; however, for long-term use, it is highly recommended to register on the respective websites ([coinmarketcap.com](https://coinmarketcap.com/api/) and [tatum.io](https://tatum.io/)) and obtain your own API keys. Free plans allow up to 10,000 requests per month, enough for 10 devices. However, with an increased number of devices, there may be delays in getting up-to-date information, which could disrupt the payment process.
+      _You can use built-in APIs for testing; however, for long-term use, it is highly recommended to register on the respective websites ([coinmarketcap.com](https://coinmarketcap.com/api/) and [tatum.io](https://tatum.io/)) and obtain your own API keys. Free plans allow up to 10,000 requests per month, enough for 10 devices. However, with an increased number of devices, there may be delays in getting up-to-date information, which could disrupt the payment process._
 
    - **Currency:** Choose the currency in which you want to receive payments (EUR, USD, RUB, BYN, BGN, GBP, etc.). This is necessary for automatic conversion of the amount into Solana, Cosmos, Algorand, Toncoin based on the current exchange rate, which is updated hourly via coinmarketcap.com.
    - **Service Currency Price:** Set the price in the selected currency that the client must pay.
    - **Payment Tolerance:** Enter the allowable price deviation here. Since the value of Ton fluctuates constantly, you need to specify a tolerance range (as a single number) that you are willing to accept for payment.
    - **Relay Work Time:** Specify how many seconds the relay should remain active. This can range from one second (for simulating a button press, for example) to several minutes or hours.
 
-     <img src="https://github.com/renat2985/crypto_payment_touchScreen/blob/main/doc/APFull2.png" width="300px">
+      <img src="https://github.com/renat2985/crypto_payment_touchScreen/blob/main/doc/APFull2.png" width="300px">
 
-
+3.	**Reset Settings:**
+   To reset the device to factory settings, follow these steps:
+   1.	Press the right button located on the back of the device. The device will start rebooting. Alternatively, you can disconnect and reconnect the power supply to the device.
+   2.	When the device turns on, and you see the firmware version displayed along with a short beep, immediately press and hold the left button.
+   3.	After that, you will hear a long, low-pitched signal, and a message about data erasure will appear on the screen.
+   The device settings will now be reset. And the WiFi "Crypto Payment" will appear again.
 
 ### Instructions for DIY Assembly:
 
