@@ -61,10 +61,11 @@ If you want to see a new cryptocurrency that you need here, feel free to contact
 For DIY assembly, you will need [ESP32 C3 MINI 1.69inch LCD TouchScreen Display ST7789](https://spotpear.com/shop/ESP32-C3-Ornament-Trinket-LVGL-Astronaut-Clock-Watch-MINI-TV-1.69inch-Round-LCD-TouchScreen-ST7789-240x280-Case.html)
 
 
-Additionally, you'll need:
-- Arduino Relay 5v module
-- Soldering iron
-- Wires
+Additionally, you'll need (AliExpress):
+[USB Type A Connector Male](https://www.aliexpress.com/item/32924785370.html)
+[5V Relay Module for Arduino Relay](https://www.aliexpress.com/item/1005006149703205.html)
+
+### Wiring Diagrams
 
   <img src="https://github.com/renat2985/crypto_payment_touchScreen/blob/main/doc/connect.png" height="200px"> <img src="https://github.com/renat2985/crypto_payment_touchScreen/blob/main/doc/gpio.png" height="200px"> <img src="https://github.com/renat2985/crypto_payment_touchScreen/blob/main/doc/photo.jpg" height="200px">
 
