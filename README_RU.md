@@ -61,7 +61,9 @@
 
 
 Дополнительно вам понадобятся (AliExpress):
+
 [USB Type A Connector Male](https://www.aliexpress.com/item/32924785370.html)
+
 [5V Relay Module for Arduino Relay](https://www.aliexpress.com/item/1005006149703205.html)
 
 
