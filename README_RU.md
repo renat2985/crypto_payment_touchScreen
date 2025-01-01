@@ -47,10 +47,12 @@
       <img src="https://github.com/renat2985/crypto_payment_touchScreen/blob/main/doc/APFull2.png" width="300px">
 
 3. **Сброс настроек:**
+
       Чтобы сбросить устройство до заводских настроек, выполните следующие шаги:
       1.	Нажмите правую кнопку, расположенную на задней стороне корпуса. Устройство начнет перезагружаться. Или вместо этого можно отключить и снова подключить питание к устройству.
       2.	Когда устройство включится и вы увидите отображение версии прошивки и короткий звуковой сигнал, немедленно зажмите левую кнопку.
       3.	После этого вы услышите продолжительный низкий сигнал, а на экране появится сообщение о стирании данных.
+
       Теперь настройки устройства будут сброшены. И снова появится WiFi "Crypto payment".
 
 ### Инструкции для самостоятельной сборки:
@@ -63,8 +65,7 @@
 - Паяльник
 - Провода
 
-  <img src="https://github.com/renat2985/crypto_payment_touchScreen/blob/main/doc/gpio.png" height="200px">
-  <img src="https://github.com/renat2985/crypto_payment_touchScreen/blob/main/doc/photo.jpg" height="200px">
+  <img src="https://github.com/renat2985/crypto_payment_touchScreen/blob/main/doc/connect.png" height="200px"> <img src="https://github.com/renat2985/crypto_payment_touchScreen/blob/main/doc/gpio.png" height="200px"> <img src="https://github.com/renat2985/crypto_payment_touchScreen/blob/main/doc/photo.jpg" height="200px">
 
 
 Удачи! Если у вас возникнут вопросы, не стесняйтесь обращаться к нам.

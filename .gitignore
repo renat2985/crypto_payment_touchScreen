@@ -1,0 +1,22 @@
+# Исключаем
+eerom.ino
+CST816D.cpp
+CST816D.h
+qrcode_espi.cpp
+qrcode_espi.h
+.DS_Store
+User_Setup.h
+icon.h
+
+
+# Исключаем toncoin_payment.ino
+crypto_payment_touchScreen.ino
+
+# Исключаем файл .elf для проекта toncoin_payment
+build/esp32.esp32.esp32c3/crypto_payment_touchScreen.ino.elf
+
+# Исключаем файл .map для проекта toncoin_payment
+build/esp32.esp32.esp32c3/crypto_payment_touchScreen.ino.map
+
+# Исключаем onclick.lv для проекта toncoin_payment
+onclick.lv/*
